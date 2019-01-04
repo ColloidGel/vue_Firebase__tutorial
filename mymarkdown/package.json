@@ -2,7 +2,7 @@
   "name": "mymarkdown",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "Colloid <c011319546@edu.teu.ac.jp>",
+  "author": "Colloid",
   "license": "MIT",
   "private": true,
   "scripts": {
